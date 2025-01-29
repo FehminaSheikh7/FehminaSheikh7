@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @FehminaSheikh7
 - 👀 I’m interested in web developement
 - 🌱 I’m currently learning Web and mobile App Developement
--2. Skills
-List your technical stack:
+
+- 
+-2. <b>Skills</b>
+
 Frontend: HTML, CSS, JavaScript, React
 Backend: Node.js, Express.js
 Mobile: Flutter, React Native
