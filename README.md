@@ -18,7 +18,7 @@
 
 
 
-<img src="https://github.com/FehminaSheikh7/FehminaSheikh7/blob/main/web.gif?raw=true" alt="Alt Text" width="300" />
+<img src="https://github.com/FehminaSheikh7/FehminaSheikh7/blob/main/web.gif?raw=true" alt="Alt Text" width="500" />
 
 
 
