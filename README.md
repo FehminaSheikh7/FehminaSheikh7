@@ -16,7 +16,7 @@
 <b>Goal:</b>
 "Aspiring to become a full-stack developer and contribute to impactful open-source projects."
 
-
+<img src="" alt="Alt Text" width="300" />
 
 
 
