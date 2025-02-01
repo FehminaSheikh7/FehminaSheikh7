@@ -13,7 +13,7 @@
 
 <b>Mobile:</b> Flutter, React Native
 
-<b>Database:<.b> MongoDB, Firebase <br>
+<b>Database:</b> MongoDB, Firebase <br>
 
 <b>Tools:</b> Git, VS Code
  
