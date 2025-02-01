@@ -16,10 +16,7 @@
 <b>Goal:</b>
 "Aspiring to become a full-stack developer and contribute to impactful open-source projects."
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/023a1f7b-43cd-49f6-8ef8-7b32763135db
-" alt="web developement" width="300">
-</div>
+
 
 
 
