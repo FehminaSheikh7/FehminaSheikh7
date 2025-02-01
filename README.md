@@ -21,8 +21,8 @@
 "Aspiring to become a full-stack developer and contribute to impactful open-source projects."
 
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100;">
-<img src="https://github.com/FehminaSheikh7/FehminaSheikh7/blob/main/web.gif?raw=true" alt="Alt Text" width="500"/> </div>
+
+<center><img src="https://github.com/FehminaSheikh7/FehminaSheikh7/blob/main/web.gif?raw=true" alt="Alt Text" width="500"/> </center>
 
 
 
