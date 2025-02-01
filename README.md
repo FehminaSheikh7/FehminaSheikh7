@@ -16,8 +16,7 @@
 <b>Goal:</b>
 "Aspiring to become a full-stack developer and contribute to impactful open-source projects."
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTR1Z2NrNmd3aWV2bGplZDMyZmh4bHE0MGhrdDJocWJ4aDEzanQweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.gif" alt="Your Alt Text" width="400" </a> 
--
+
 
 .
 - 
