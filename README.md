@@ -20,11 +20,6 @@
 
 
 
-<div align="center">
-  <img src="https://github.com/FehminaSheikh7/FehminaSheikh7/blob/main/web.gif">
-</div>
-```
-
 
 
 
