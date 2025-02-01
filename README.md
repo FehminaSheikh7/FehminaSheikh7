@@ -16,9 +16,9 @@
 <b>Goal:</b>
 "Aspiring to become a full-stack developer and contribute to impactful open-source projects."
 
-https://github.com/FehminaSheikh7/FehminaSheikh7/blob/main/web.gif?raw=true
 
 
+<img src="https://github.com/FehminaSheikh7/FehminaSheikh7/blob/main/web.gif?raw=true" alt="Alt Text" width="300" />
 
 
 
