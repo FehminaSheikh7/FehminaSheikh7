@@ -8,9 +8,13 @@
 -2. <b>Skills</b>
 
 <b>Frontend:</b> HTML, CSS, JavaScript, React
+
 <b>Backend:</b> Node.js, Express.js
+
 <b>Mobile:</b> Flutter, React Native
+
 <b>Database:<.b> MongoDB, Firebase <br>
+
 <b>Tools:</b> Git, VS Code
  
 <b>Goal:</b>
