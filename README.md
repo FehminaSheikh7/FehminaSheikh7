@@ -17,9 +17,6 @@
 "Aspiring to become a full-stack developer and contribute to impactful open-source projects."
 
 ```
-<a>img=src"https://github.com/FehminaSheikh7/FehminaSheikh7/raw/main/web.gif</a?
-"
-
 
 
 
